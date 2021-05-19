@@ -1,4 +1,4 @@
-# R Basic
+# R Basic with Jupyter notebook
 
 ## R Basic Code for beginners
 
