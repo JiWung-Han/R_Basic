@@ -1,0 +1,6 @@
+*.r linguist-detectable=true 
+
+*.ipynb linguist-vendored = false
+*.py linguist-detectable=false 
+*.cpp linguist-detectable=false 
+*.java linguist-detectable=false
