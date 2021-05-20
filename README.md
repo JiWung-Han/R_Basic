@@ -4,7 +4,7 @@
 
 ### Setting R environment on Jupyter notebooks
 * Anacomda Prompt
-* 
+
 #### Install R (the latest version) <br>
 * conda install -c r r-essentials
 
