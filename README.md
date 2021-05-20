@@ -11,4 +11,4 @@
 #### install R libraries
 * conda install c r-rocr
 * conda install c r-gplots
-* R language packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
+* R Libraries packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
