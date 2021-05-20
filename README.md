@@ -12,4 +12,5 @@
 * conda install -c r r-rocr
 * conda install -c r r-gplots
 * conda install -c r r-aplpack
+* conda install -c r r-xlsx
 * R language packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
