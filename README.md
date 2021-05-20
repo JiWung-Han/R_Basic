@@ -3,7 +3,7 @@
 ## R Basic Code for beginners
 
 ### Setting R environment on Jupyter notebooks
-* Anacomda Prompt
+* Anaconda Prompt
 
 #### Install R (the latest version) <br>
 * conda install -c r r-essentials
