@@ -2,6 +2,10 @@
 
 ## R Basic Code for beginners
 
+## Requirements
+* python 3.7+
+* R 3.6.1+ (2019-07-05)
+
 ### Setting R environment on Jupyter notebooks
 * Anaconda Prompt
 
