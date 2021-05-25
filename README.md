@@ -18,4 +18,5 @@
 * conda install -c r r-xlsx
 * conda install -c r r-dummy
 * conda install -c r r-neuralnet
+* conda install -c r r-arules
 * R language packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
