@@ -23,4 +23,5 @@
 * conda install -c r r-neuralnet
 * conda install -c r r-arules
 * conda install -c r r-psych
+* conda install -c r r-gparotation
 * R language packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
