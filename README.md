@@ -14,7 +14,7 @@
 #### Install R (the latest version) <br>
 * conda install -c r r-essentials
 
-#### install R libraries
+#### R libraries for using machine learning algorithm
 * conda install -c r r-rocr
 * conda install -c r r-gplots
 * conda install -c r r-aplpack
