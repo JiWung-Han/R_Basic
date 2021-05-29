@@ -1,3 +1,6 @@
+# git config --global user.name ~
+# git config --global user.email ~
+
 # R Basic with Jupyter notebook
 
 ## R Basic Code for beginners
