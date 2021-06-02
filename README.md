@@ -24,5 +24,6 @@
 * conda install -c r r-arules
 * conda install -c r r-psych
 * conda install -c r r-gparotation
+* conda install -c r r-hsaur (heptathlon dataset)
 * conda install -c conda-forge r-klar (for Discriminant Analysis)
 * R language packages for Anaconda (https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
